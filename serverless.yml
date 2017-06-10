@@ -8,7 +8,6 @@ provider:
   region: us-west-2
   profile: circle-ci
   versionFunctions: true
-  role: arn:aws:iam::188664007186:role/omnipotent_lambda_role
   memorySize: 512
   timeout: 45
   deploymentBucket: unific-lambdas
